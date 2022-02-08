@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Catatan_Pelanggar_Keluhan</string>
+    <string-array name="list_pelanggaran">
+        <item>Bolos sekolah</item>
+        <item>Tidak ikut upacara</item>
+        <item>Membawa Handphone</item>
+        <item>Membawa senjata tajam</item>
+        <item>Ribut di Kelas</item>
+        <item>Berkelahi</item>
+        <item>Tidak sopan</item>
+        <item>Merokok</item>
+    </string-array>
+
+    <string name="gender_unknown">Unknown</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+
+    <string-array name="array_gender_options">
+        <item>@string/gender_unknown</item>
+        <item>@string/gender_male</item>
+        <item>@string/gender_female</item>
+    </string-array>
+</resources>
